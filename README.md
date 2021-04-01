@@ -4,4 +4,4 @@
 #### Author James S Wood
 
 ## Project Description
-This is a test R studio test project
+This is a R Studio test project
